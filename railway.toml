@@ -1,6 +1,0 @@
-[build]
-builder = "NIXPACKS"
-nixpacksConfigPath = "server/project.toml"
-
-[deploy]
-root = "server"
